@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+}
+
+
+.h1-tag{
+    width: 500px;
+    margin: auto;
+    padding: 1rem 0.9rem;
+}
+
+.DataFetch{
+    height: 100vh; 
+    margin: 1rem 0;
+
+}
