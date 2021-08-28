@@ -70,3 +70,20 @@
   margin: auto;
   border: 2px solid  black;
 }
+
+@media (min-width:0px)and (max-width:480px) {
+
+  .Table_responsive{
+    width: 100%;
+    font-size: 18px;
+    padding: 1rem 0;
+    box-shadow:none;  
+  }
+  .btn {
+    left: 70%;
+    font-size: 18px;
+  } 
+  .Update_From1{
+    top:10%;
+  }
+}
